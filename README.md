@@ -1,2 +1,2 @@
 # M5-Forecasting-Accuracy
-A competition help by Kaggle, https://www.kaggle.com/c/m5-forecasting-accuracy/data.
+A competition held by Kaggle, https://www.kaggle.com/c/m5-forecasting-accuracy/data.
